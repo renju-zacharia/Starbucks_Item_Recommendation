@@ -1,0 +1,145 @@
+Beverage_Id,Beverage,Type,Calories,Fat,Carbohydrate,Fibre,Sugar,Protein,Caffeine
+1,Brewed Coffee,Beverage,5,0.1,10,0,0,1,330
+2,CaffA Latte,Beverage,190,7,170,0,17,12,150
+3,CaffA Mocha (Without Whipped Cream),Beverage,260,8,140,2,34,13,175
+4,Vanilla Latte (Or Other Flavoured Latte),Beverage,250,6,150,0,35,12,150
+5,CaffA Americano,Beverage,15,0,15,0,0,1,225
+6,Cappuccino,Beverage,120,4,100,0,10,8,150
+7,Espresso,Beverage,10,0,1,0,0,1,150
+8,Skinny Latte (Any Flavour),Beverage,120,0.3,160,0,16,12,150
+9,Caramel Macchiato,Beverage,240,7,150,0,32,10,150
+10,White Chocolate Mocha (Without Whipped Cream),Beverage,400,11,250,0,58,15,150
+11,Hot Chocolate (Without Whipped Cream),Beverage,290,9,160,2,41,14,25
+12,Caramel Apple Spice (Without Whipped Cream),Beverage,280,0,20,0,65,0,0
+13,TazoA Tea,Beverage,0,0,0,0,0,0,50
+14,TazoA Chai Tea Latte,Beverage,240,4.5,115,0,42,8,95
+15,TazoA Green Tea Latte,Beverage,350,8,180,1,55,14,80
+16,TazoA Full-Leaf Tea Latte,Beverage,190,4,95,0,30,7,50
+17,TazoA Full-Leaf Red Tea Latte (Vanilla Rooibos),Beverage,190,4,95,0,30,7,0
+18,Iced Brewed Coffee (With Classic Syrup),Beverage,90,0.1,5,0,21,0.3,165
+19,Iced Brewed Coffee (With Milk & Classic Syrup),Beverage,120,1.5,35,0,24,2,125
+20,Shaken Iced TazoA Tea (With Classic Syrup),Beverage,80,0,0,0,21,0,50
+21,Banana Chocolate Smoothie,Beverage,300,5,160,7,34,20,15
+22,Orange Mango Banana Smoothie,Beverage,270,1.5,125,6,37,16,0
+23,Coffee,Beverage,240,3,220,0,50,3,95
+24,Mocha (Without Whipped Cream),Beverage,290,4,220,1,58,4,110
+25,Caramel (Without Whipped Cream),Beverage,280,3.5,220,0,59,3,100
+26,Java Chip (Without Whipped Cream),Beverage,340,7,250,2,62,5,110
+27,Coffee,Beverage,120,0.1,210,0,26,3,95
+28,Caramel,Beverage,150,0.1,200,0,32,3,90
+29,Java Chip,Beverage,220,4,240,2,39,5,105
+30,Strawberries & CrA me (Without Whipped Cream),Beverage,260,4,190,0,52,4,0
+31,Vanilla Bean (Without Whipped Cream),Beverage,240,0.1,230,0,55,5,0
+32,Chonga Bagel,Food,300,5,50,3,5,12,0
+33,8-Grain Roll,Food,380,6,70,7,15,10,0
+34,Almond Croissant,Food,410,22,45,3,13,10,0
+35,Apple Fritter,Food,460,23,56,2,18,7,0
+36,Banana Nut Bread,Food,420,22,52,2,30,6,0
+37,Blueberry Muffin with Yogurt and Honey,Food,380,16,53,1,30,6,0
+38,Blueberry Scone,Food,420,17,61,2,7,5,0
+39,Butter Croissant,Food,240,12,28,1,5,5,0
+40,Butterfly Cookie,Food,350,22,38,0,37,2,0
+41,Cheese Danish,Food,320,16,36,1,7,8,0
+42,Chewy Chocolate Cookie,Food,170,5,30,2,26,2,0
+43,Chocolate Chip Cookie,Food,310,15,42,2,31,4,0
+44,Chocolate Chunk Muffin,Food,440,21,60,2,39,7,0
+45,Chocolate Croissant,Food,330,18,38,1,10,6,0
+46,Chocolate Hazelnut Croissant,Food,390,22,43,2,19,7,0
+47,Chocolate Marble Loaf Cake,Food,490,24,64,2,43,6,0
+48,Cinnamon Morning Bun,Food,390,15,56,2,19,8,0
+49,Cinnamon Raisin Bagel,Food,270,1,58,3,11,9,0
+50,Classic Coffee Cake,Food,390,16,57,1,21,5,0
+51,Cookie Butter Bar,Food,360,23,36,0,20,2,0
+52,Cranberry Orange Scone,Food,420,15,64,1,26,6,0
+53,Devil's Food Doughnut,Food,430,23,53,2,27,5,0
+54,Double Chocolate Brownie,Food,410,24,46,3,30,6,0
+55,Double Chocolate Chunk Brownie,Food,490,28,55,3,37,7,0
+56,Double Chocolate Loaf Cake,Food,440,23,54,3,36,5,0
+57,Everybody's Favorite - Bantam Bagel (2 Pack),Food,100,3.5,14,0,2,3,0
+58,Everything Bagel with Cheese,Food,290,3.5,53,2,5,11,0
+59,Frappuccino Cookie Straw,Food,90,3,14,0,9,1,0
+60,French Toast - Bantam Bagels (2 Pack),Food,200,8,30,0,4,6,0
+61,Gluten-Free Marshmallow Dream Bar,Food,240,5,45,0,24,2,0
+62,Ice Cream Cone Sugar Cookie,Food,250,14,29,1,16,3,0
+63,Iced Lemon Pound Cake,Food,470,20,68,1,42,6,0
+64,Michigan Cherry Oat Bar,Food,310,10,47,2,28,3,0
+65,Multigrain Bagel,Food,350,4,64,8,6,17,0
+66,Oatmeal Cookie,Food,290,12,40,3,20,5,0
+67,Octopus Cookie,Food,330,18,39,1,20,3,0
+68,Old-Fashioned Glazed Doughnut,Food,480,27,56,1,30,5,0
+69,Peanut butter cup cookie,Food,360,21,36,3,22,8,0
+70,Pecan Tart,Food,330,18,39,1,19,4,0
+71,Petite Vanilla Bean Scone,Food,120,4.5,18,0,8,2,0
+72,Plain Bagel,Food,280,1.5,56,2,2,9,0
+73,Pumpkin Bread,Food,410,15,63,2,39,6,0
+74,Raspberry Swirl Loaf Cake,Food,420,17,61,1,37,6,0
+75,Raspberry Whoopie Pie,Food,360,18,45,1,30,3,0
+76,Reduced-Fat Cinnamon Swirl Coffee Cake,Food,370,9,67,2,41,5,0
+77,S'mores Bar,Food,330,17,44,1,32,2,0
+78,S'mores Bar Multipack,Food,330,17,44,1,32,2,0
+79,Sprouted Grain Vegan Bagel,Food,330,6,57,7,4,12,0
+80,Strawberry Cake Pop,Food,180,9,23,0,16,2,0
+81,The Classic - Bantam Bagels (2 Pack),Food,200,8,28,0,2,6,0
+82,Toffeedoodle,Food,300,13,44,1,26,3,0
+83,Vanilla Bean Whoopie Pie,Food,360,18,45,1,30,3,0
+84,Vermont Maple Walnut Muffin,Food,390,21,45,2,24,6,0
+85,Volpi™ Pepperoni & Tomato Savory Foldover,Food,270,14,27,2,6,10,0
+86,Strawberries & Jam Sandwich,Food,600,25,80,10,25,19,0
+87,Burrata & Basil Pesto Small Sandwich,Food,300,14,34,2,2,11,0
+88,Cage-Free Eggs & Seasoned Grains Side Salad,Food,360,18,33,3,4,17,0
+89,Cauliflower Tabbouleh Side Salad,Food,130,12,7,3,3,2,0
+90,Cubano Sandwich,Food,430,23,34,3,3,21,0
+91,Farmers' Market Protein Box,Food,470,29,29,4,12,21,0
+92,Garden Greens & Shaved Parmesan Side Salad,Food,170,13,9,2,4,7,0
+93,Green Goddess Avocado Salad,Food,620,37,62,10,16,13,0
+94,Herbed Chicken & Fig Spread Small Sandwich,Food,300,8,43,2,10,19,0
+95,Honey BBQ Sriracha Chicken Sandwich,Food,360,7,52,3,9,22,0
+96,Roasted Carrot & Kale Side Salad,Food,440,26,44,7,6,10,0
+97,Roasted Turkey & Dill Havarti Sandwich,Food,600,32,47,6,4,32,0
+98,Seared Steak & Cheddar Sandwich,Food,530,29,44,2,3,23,0
+99,Slow-Roasted Ham & Beecher's Flagship Cheese Small Sandwich,Food,350,18,31,1,1,16,0
+100,Smoked Mozzarella & Roasted Pepper Sandwich,Food,500,28,46,4,8,18,0
+101,Turkey & Fire-Roasted Corn Salad,Food,560,29,53,7,18,24,0
+102,Za'atar Chicken & Lemon Tahini Salad,Food,570,23,67,11,16,27,0
+103,BBQ Chicken Protein Box,Food,420,16,49,5,20,22,0
+104,Cheese & Fruit Protein Box,Food,450,27,34,4,15,20,0
+105,Chicken Wrap Protein Box,Food,460,22,45,4,13,20,0
+106,Eggs & Cheese Protein Box,Food,460,24,40,5,21,23,0
+107,PB&J Protein Box,Food,520,26,53,5,30,20,0
+108,Smoked Turkey Protein Box,Food,360,12,42,5,15,24,0
+109,Birthday Cake Pop,Food,170,9,23,0,18,1,0
+110,Chocolate Cake Pop,Food,160,8,23,1,18,2,0
+111,Chocolate Chip Cookie Dough Cake Pop,Food,180,9,23,0,12,2,0
+112,Pirate Cake Pop,Food,180,9,24,0,22,1,0
+113,Bacon Gouda & Egg Breakfast Sandwich,Food,370,19,32,1,18,18,0
+114,Certified Gluten-Free Breakfast Sandwich,Food,280,13,18,6,2,18,0
+115,Classic Whole-Grain Oatmeal,Food,160,2.5,28,4,0,5,0
+116,Double-Smoked Bacon Cheddar & Egg Sandwich,Food,490,27,40,1,8,21,0
+117,Ham & Cheese Croissant,Food,320,17,28,1,5,14,0
+118,Hearty Blueberry Oatmeal,Food,220,2.5,43,5,13,5,0
+119,Reduced-Fat Turkey Bacon & Cage Free Egg White Breakfast Sandwich,Food,230,6,28,2,2,16,0
+120,Sausage Cheddar & Egg Breakfast Sandwich,Food,500,28,41,1,2,15,0
+121,Seared Steak Egg & Tomatillo Wrap,Food,410,18,43,2,4,21,0
+122,Slow-Roasted Ham Swiss & Egg Breakfast Sandwich,Food,450,23,42,1,7,24,0
+123,Sous Vide Egg Bites: Bacon & Gruyere,Food,310,22,9,0,2,19,0
+124,Sous Vide Egg Bites: Egg White & Red Pepper,Food,170,7,13,1,2,13,0
+125,Spicy Chorizo  Monterey Jack & Egg Breakfast Sandwich,Food,500,30,35,3,5,26,0
+126,Spinach Feta & Cage Free Egg White Breakfast Wrap,Food,290,10,33,6,5,19,0
+127,Ancho Chipotle Chicken Panini ,Food,500,19,57,4,3,26,0
+128,Chicken & Quinoa Protein Bowl with Black Beans and Greens,Food,420,17,42,9,11,27,0
+129,Chicken Artichoke on Ancient Grain Flatbread,Food,510,27,37,5,1,24,0
+130,Chicken BLT Salad Sandwich,Food,470,25,35,3,3,21,0
+131,Egg Salad Sandwich,Food,480,27,42,7,5,16,0
+132,Homestyle Chicken & Double-Smoked Bacon,Food,480,17,57,3,11,23,0
+133,Italian-Style Ham & Spicy Salami,Food,480,20,49,3,3,22,0
+134,Lentils & Vegetable Protein Bowl with Brown Rice,Food,650,29,80,21,10,23,0
+135,Roasted Tomato & Mozzarella Panini,Food,420,18,47,3,2,11,0
+136,Turkey & Havarti Sandwich,Food,460,21,31,2,2,29,0
+137,Turkey Pesto Panini,Food,560,23,55,3,3,34,0
+138,Berry Trio Yogurt,Food,240,2.5,39,3,26,14,0
+139,Fresh Blueberries and Honey Greek Yogurt Parfait,Food,240,2.5,42,2,29,14,0
+140,Justin's Chocolate Hazelnut Butter,Food,180,14,12,3,7,4,0
+141,Justin's Classic Almond Butter,Food,190,18,6,3,1,7,0
+142,Lemon Chiffon Yogurt,Food,340,13,38,0,35,18,0
+143,Organic Avocado (Spread),Food,90,8,5,4,0,1,0
+144,Seasonal Fruit Blend,Food,90,0,24,4,19,1,0
